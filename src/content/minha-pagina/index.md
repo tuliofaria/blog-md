@@ -1,8 +1,8 @@
 ---
-title: Título alterado pelo NetlifyCMS
+title: Título alterado pelo NetlifyCMS222
+path: /blog/minha-pagina
 description: Bem vindo a minha página.
 banner: ./img1.jpg
-path: '/blog/minha-pagina'
 ---
 
 # Minha página
